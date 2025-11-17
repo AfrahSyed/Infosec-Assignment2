@@ -1,0 +1,41 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual envs
+.venv/
+venv/
+env/
+.venv*/
+venv*/
+
+# Build / dist
+build/
+dist/
+.eggs/
+*.egg-info/
+*.so
+
+# Caches / coverage / logs
+.cache/
+pytest_cache/
+.coverage*
+htmlcov/
+*.log
+
+# ---- Secrets & local state (CRITICAL) ----
+certs/             # CA + keys/certs live only locally
+state/             # local sqlite or temp state
+transcripts/       # runtime transcripts/receipts
+*.pcap
+*.pcapng           # packet captures
+.env
+.env.*
+*.pem              # any str*
+"certs/"          
+"transcripts/"    
+".env"            
+"*.pcapng"        
+"__pycache__/"    
+".venv/"          
