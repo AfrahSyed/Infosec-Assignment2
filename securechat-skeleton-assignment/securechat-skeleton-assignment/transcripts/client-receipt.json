@@ -1,0 +1,8 @@
+{
+  "type": "receipt",
+  "role": "client",
+  "first seq": 1,
+  "last seq": 1,
+  "transcript sha256": "eb669941880eba1b42905edf0529683b0570d822f55a16fcd078b6be572949bf",
+  "sig": "NryHA86rWOvcnR91e1xTW8PhiyEUZYn+AqsHA2uwC4MIbEAmEKjvWhUt//xTcPgSIwmkEQVx+h0gu+hUdPLVHW61VjSkmRN0Gv1wVB4/IipT/c+JAA7fPeiLQ7Nwsh/C1rlhfirNjzqcMEWoKM3JBLPeQ1D6pYeDmd4HznxHmxMEbn9+IQ8Ooy5R83soTHvtA4IE5WHt3FCHnDvBBHzQkZ8Rgnc6WX/BGtsTw0/PrQt2J1lvnL9m4Tv3aOITu0ZXidT9dgjQ4XT/LcgSnYvBfJ44Qdp0ISsa4X6YO97dqZUKzw+b9DykIAh+shT6f0VhmHrUo0b6T06n4wvhdDxYJA=="
+}
